@@ -1,0 +1,8 @@
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\bin\Debug\MSI_Extractor.exe.config
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\bin\Debug\MSI_Extractor.exe
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\bin\Debug\MSI_Extractor.pdb
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\obj\Debug\MSI_Extractor.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\obj\Debug\MSI_Extractor.MainForm.resources
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\obj\Debug\MSI_Extractor.csproj.GenerateResource.Cache
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\obj\Debug\MSI_Extractor.exe
+C:\Users\Pichau\Documents\SharpDevelop Projects\MSI_Extractor\MSI_Extractor\obj\Debug\MSI_Extractor.pdb
